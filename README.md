@@ -35,7 +35,7 @@ Clean UI with smooth user experience
 
 📧 Email:sakshamd2e1@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/sakshamdhiman22/
-🌍 Portfolio: your-portfolio-link
+🌍 Portfolio: https://sakshamdhiman.lovable.app/
 
 ---
 
